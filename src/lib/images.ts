@@ -23,8 +23,8 @@ export const images = {
   /** Upstate Church dual logo */
   upstateLogo: "/Images/Dual Logo 5@4x 1600x400-2.png",
 
-  /** Baptism photos from fbsimpsonville.org/baptism/ */
-  baptism1: "https://fbsimpsonville.org/wp-content/uploads/2024/12/DSC04538-Enhanced-NR-1024x683.jpg",
+  /** Baptism — local image */
+  baptism1: "/Images/657988391_18541432663069798_3692031246716963655_n.jpg",
 
   /** Congregation from fbsimpsonville.org */
   congregation: "https://fbsimpsonville.org/wp-content/uploads/2025/02/2025-02-02-21-website-homepage-v2.jpg",
@@ -32,8 +32,8 @@ export const images = {
   /** Community from fbsimpsonville.org */
   community: "https://fbsimpsonville.org/wp-content/uploads/2025/02/homepage-2024-04-14-20-copy-1.jpg",
 
-  /** Groups from fbsimpsonville.org */
-  groups: "https://fbsimpsonville.org/wp-content/uploads/2024/06/MenPhoto.jpg",
+  /** Groups — local image */
+  groups: "/Images/586543905_1306775431491460_8278290366445341122_n.jpg",
 
   /** Campus from fbsimpsonville.org */
   campus: "https://fbsimpsonville.org/wp-content/uploads/2024/05/FBSimpsonville_Downtown-35-1024x519.jpg",

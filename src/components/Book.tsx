@@ -85,10 +85,10 @@ export default function Book() {
             </div>
 
             <blockquote className="mt-8 border-l-2 border-accent pl-5 italic text-slate-500">
-              &ldquo;Wayne writes the way he leads — with honesty, warmth, and a
-              deep love for the local church.&rdquo;
+              &ldquo;It&apos;s the must read book for Churches and Christians with
+              passion to make a REAL difference in their culture.&rdquo;
               <span className="block mt-2 not-italic text-sm text-slate-400">
-                — Endorsement Placeholder
+                — Bill Purvis, Lead Pastor, Cascade Hills Church
               </span>
             </blockquote>
 

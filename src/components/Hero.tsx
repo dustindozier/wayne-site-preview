@@ -14,11 +14,11 @@ export default function Hero() {
           src={images.hero}
           alt="Wayne Bray preaching at Upstate Church"
           fill
-          className="object-cover object-top"
+          className="object-cover object-[75%_20%] sm:object-[center_top]"
           priority
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-navy/85 via-navy/70 to-navy/50" />
+        <div className="absolute inset-0 bg-gradient-to-b from-navy/80 via-navy/60 to-navy/70 sm:bg-gradient-to-r sm:from-navy/85 sm:via-navy/70 sm:to-navy/50" />
       </div>
 
       <div className="relative z-10 mx-auto max-w-7xl w-full px-6 py-32 lg:py-40">
@@ -91,14 +91,14 @@ export default function Hero() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 1 }}
-        className="absolute bottom-12 right-8 lg:right-16 pointer-events-none"
+        className="absolute bottom-14 sm:bottom-12 right-1/2 translate-x-1/2 sm:translate-x-0 sm:right-8 lg:right-16 pointer-events-none"
       >
         <Image
           src={images.logoWhite}
           alt=""
           width={400}
           height={125}
-          className="h-[80px] sm:h-[100px] lg:h-[130px] w-auto"
+          className="h-[65px] sm:h-[100px] lg:h-[130px] w-auto"
           aria-hidden="true"
         />
       </motion.div>
